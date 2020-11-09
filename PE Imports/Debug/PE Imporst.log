@@ -1,0 +1,3 @@
+﻿  PE Imporst.cpp
+C:\Users\manuz\source\repos\Windows Binary\PE Imporst\PE Imporst.cpp(121,24): error C2065: 'IMAGE_IMPORT': undeclared identifier
+C:\Users\manuz\source\repos\Windows Binary\PE Imporst\PE Imporst.cpp(124,2): error C2146: syntax error: missing ';' before identifier 'system'
